@@ -8,7 +8,6 @@ import java.io.IOException;
 
 import static bidaxiao.daxiao.BUFFER_IMAGE_AREA;
 
-
 public class Pictures {
     /**
      *
