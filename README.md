@@ -10,8 +10,9 @@
 
 1. 使用前建议将显示器分辨率调至1280×720，且不要缩放，即100%缩放比
 
-![img.png](src%2Fmain%2Fjava%2Fdoc%2Fimg.png)
+![img](https://zhicai-res-share.oss-cn-guangzhou.aliyuncs.com/PicGo/note/202410111514929.png)
 
 2. 使用模拟器打开小猿口算app，并将上下拉到最高，放置显示屏最左侧，并且不要右任何遮挡，右边是啥无所谓。
 
-![img_1.png](src%2Fmain%2Fjava%2Fdoc%2Fimg_1.png)
+![img_1](https://zhicai-res-share.oss-cn-guangzhou.aliyuncs.com/PicGo/note/202410111514628.png)
+
